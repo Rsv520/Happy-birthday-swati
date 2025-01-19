@@ -50,7 +50,7 @@
         
         document.querySelector('.cake').addEventListener('click', function() {
             document.getElementById('birthdayMusic').play();
-        });
+        })
     </script>
 </body>
 </html>
